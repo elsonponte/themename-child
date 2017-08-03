@@ -52,13 +52,13 @@ Edit the style.css and replace the sections acorrdingly (check this example - ta
 ```css
 ...
 /*
-Theme Name:         Avada Child
+Theme Name:         Twenty Seventeen Child
 Description:        My Avada child theme
-Template:           Avada
+Template:           twentyseventeen
 Version:            1.0
 Author:             Your name
 Author URI:         https://yoururl.com
-Text Domain:        Avada
+Text Domain:        twentyseventeen
 
 License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
